@@ -26,14 +26,16 @@ Constraints:
 
 
 
-Sample Input               Sample Output 
+Sample Input:              
 
- 4                            3b          
- abc                                      
- def                                     
- feg                                       
- cba                 
+             4                                  
+             abc                                      
+             def                                     
+             feg                                       
+             cba                 
 
-
+ Sample Output:
+ 
+              3b  
 
 
